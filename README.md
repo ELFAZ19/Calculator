@@ -19,3 +19,4 @@ JavaScript for functionality
 4.Use "C" to reset and "CE" to delete the last digit.
 
 📌 Live Demo
+👉👉 https://elfaz19.github.io/Calculator/
