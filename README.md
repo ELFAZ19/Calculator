@@ -1,22 +1,35 @@
-Calculator Web App
-A simple and stylish calculator built with HTML, CSS, and JavaScript. This project features a clean user interface with a digital-style display and smooth button interactions.
+# 🧮 Calculator – Simple & Stylish  
 
-✨ Features
-✅ Basic arithmetic operations (+, -, *, /)
-✅ "C" button to clear the display
-✅ "CE" button to delete the last entry
-✅ Responsive design for mobile and desktop
-✅ Styled using custom fonts and gradients
+Welcome to **Calculator**, a sleek and responsive web-based calculator built using **HTML, CSS, and JavaScript**. This project delivers a clean UI with smooth functionality, making calculations effortless and intuitive.  
 
-🚀 Technologies Used
-HTML for structure
-CSS for styling (including custom fonts and animations)
-JavaScript for functionality
-🎯 How to Use
-1.Click the number buttons to input values.
-2.Use the arithmetic buttons to perform calculations.
-3.Press "=" to get the result.
-4.Use "C" to reset and "CE" to delete the last digit.
+## ✨ Features  
+✅ **User-Friendly Interface** – Minimalist design for easy use.  
+✅ **Responsive Design** – Works seamlessly on all devices.  
+✅ **Basic Arithmetic Operations** – Perform addition, subtraction, multiplication, and division.  
+✅ **Smooth Button Interactions** – Ensures a seamless user experience.  
 
-📌 Live Demo
-👉👉 https://elfaz19.github.io/Calculator/
+## 🚀 Live Demo  
+🔗 [Try it here!](https://elfaz19.github.io/Calculator/)  
+
+## 🛠️ Technologies Used  
+- **HTML** – Structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Functionality  
+
+## 📌 How to Use  
+1. Enter numbers using the on-screen buttons.  
+2. Click on operators (+, -, ×, ÷) to perform calculations.  
+3. Press `=` to see the result.  
+4. Use `C` to clear the screen.  
+
+## 📅 Future Enhancements  
+- Adding advanced functions (square root, percentage, etc.)  
+- Dark mode toggle  
+- Improved animations  
+
+### 📜 License  
+This project is open-source. Feel free to modify and improve!  
+
+---
+
+💡 **Made with passion by [ELFAZ19](https://github.com/elfaz19)**  
